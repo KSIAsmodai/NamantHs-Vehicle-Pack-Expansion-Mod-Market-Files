@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+<type name="NamantH_ElCamino1978_Blue">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Blue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Blue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Blue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Blue" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_Blue_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Blue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Blue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Blue_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Blue_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_White">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_White" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_White" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_White" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_White" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_White_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_White_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_White_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_White_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_White_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_Yellow">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Yellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Yellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Yellow" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Yellow" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_Yellow_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Yellow_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Yellow_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Yellow_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Yellow_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_Black">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Black" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Black" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Black" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Black" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_Black_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Black_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Black_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Black_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Black_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_BlackGold">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_BlackGold" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_BlackGold" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_BlackGold" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_BlackGold" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_BlackGold_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_BlackGold_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_BlackGold_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_BlackGold_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_BlackGold_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_BlackMaroon">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_BlackMaroon" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_BlackMaroon" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_BlackMaroon" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_BlackMaroon" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_BlackMaroon_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_BlackMaroon_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_BlackMaroon_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_BlackMaroon_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_BlackMaroon_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_BlackSilver">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_BlackSilver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_BlackSilver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_BlackSilver" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_BlackSilver" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_BlackSilver_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_BlackSilver_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_BlackSilver_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_BlackSilver_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_BlackSilver_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_BlueBlack">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_BlueBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_BlueBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_BlueBlack" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_BlueBlack" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_BlueBlack_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_BlueBlack_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_BlueBlack_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_BlueBlack_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_BlueBlack_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_Camel">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Camel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Camel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Camel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Camel" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_Camel_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Camel_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Camel_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Camel_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Camel_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_CamelGold">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_CamelGold" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_CamelGold" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_CamelGold" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_CamelGold" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_CamelGold_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_CamelGold_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_CamelGold_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_CamelGold_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_CamelGold_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_DarkGreen">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_DarkGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_DarkGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_DarkGreen" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_DarkGreen" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_DarkGreen_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_DarkGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_DarkGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_DarkGreen_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_DarkGreen_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_Green">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Green" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Green" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Green" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Green" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_Green_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Green_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Green_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Green_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Green_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_LightBlue">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_LightBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_LightBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_LightBlue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_LightBlue" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_LightBlue_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_LightBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_LightBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_LightBlue_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_LightBlue_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_LightBlueBlack">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_LightBlueBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_LightBlueBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_LightBlueBlack" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_LightBlueBlack" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_LightBlueBlack_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_LightBlueBlack_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_LightBlueBlack_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_LightBlueBlack_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_LightBlueBlack_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_Maroon">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Maroon" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Maroon" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Maroon" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Maroon" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_Maroon_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Maroon_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Maroon_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Maroon_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Maroon_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_MaroonBeige">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_MaroonBeige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_MaroonBeige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_MaroonBeige" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_MaroonBeige" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_MaroonBeige_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_MaroonBeige_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_MaroonBeige_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_MaroonBeige_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_MaroonBeige_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_Silver">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Silver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Silver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Silver" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Silver" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_Silver_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_Silver_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_Silver_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_Silver_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_Silver_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_SilverBlack">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_SilverBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_SilverBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_SilverBlack" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_SilverBlack" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_SilverBlack_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_SilverBlack_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_SilverBlack_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_SilverBlack_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_SilverBlack_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_SilverMaroon">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_SilverMaroon" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_SilverMaroon" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_SilverMaroon" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_SilverMaroon" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_SilverMaroon_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_SilverMaroon_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_SilverMaroon_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_SilverMaroon_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_SilverMaroon_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_WhiteBlack">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_WhiteBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_WhiteBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_WhiteBlack" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_WhiteBlack" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_WhiteBlack_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_WhiteBlack_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_WhiteBlack_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_WhiteBlack_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_WhiteBlack_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_YellowRed">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_YellowRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_YellowRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_YellowRed" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_YellowRed" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_ElCamino1978_YellowRed_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_driver_YellowRed_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_codriver_YellowRed_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_hood_YellowRed_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_ElCamino1978_doors_trunk_YellowRed_Rust" chance="0.20" />
+		</attachments>
+	</type>
+</spawnabletypes>

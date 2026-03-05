@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+	<type name="NamantH_VWBeetle1963_Arthracite">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_Arthracite" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_Arthracite" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_Arthracite" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_Arthracite" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_BahamaBlue">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_BahamaBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_BahamaBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_BahamaBlue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_BahamaBlue" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_Black">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_Black" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_Black" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_Black" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_Black" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_Ivory">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_Ivory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_Ivory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_Ivory" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_Ivory" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_JavaGreen">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_JavaGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_JavaGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_JavaGreen" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_JavaGreen" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_LightBlue">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_LightBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_LightBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_LightBlue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_LightBlue" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_Pacific">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_Pacific" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_Pacific" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_Pacific" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_Pacific" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_PanamaBeige">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_PanamaBeige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_PanamaBeige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_PanamaBeige" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_PanamaBeige" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_PearlWhite">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_PearlWhite" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_PearlWhite" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_PearlWhite" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_PearlWhite" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_RubyRed">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_RubyRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_RubyRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_RubyRed" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_RubyRed" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_SeaBlue">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_SeaBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_SeaBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_SeaBlue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_SeaBlue" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_SeaSand">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_SeaSand" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_SeaSand" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_SeaSand" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_SeaSand" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_Turquoise">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_Turquoise" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_Turquoise" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_Turquoise" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_Turquoise" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_YukonYellow">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_YukonYellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_YukonYellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_YukonYellow" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_YukonYellow" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_Arthracite_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_Arthracite_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_Arthracite_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_Arthracite_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_Arthracite_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_BahamaBlue_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_BahamaBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_BahamaBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_BahamaBlue_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_BahamaBlue_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_Black_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_Black_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_Black_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_Black_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_Black_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_Ivory_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_Ivory_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_Ivory_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_Ivory_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_Ivory_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_JavaGreen_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_JavaGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_JavaGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_JavaGreen_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_JavaGreen_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_LightBlue_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_LightBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_LightBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_LightBlue_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_LightBlue_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_Pacific_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_Pacific_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_Pacific_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_Pacific_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_Pacific_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_PanamaBeige_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_PanamaBeige_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_PanamaBeige_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_PanamaBeige_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_PanamaBeige_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_PearlWhite_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_PearlWhite_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_PearlWhite_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_PearlWhite_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_PearlWhite_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_RubyRed_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_RubyRed_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_RubyRed_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_RubyRed_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_RubyRed_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_SeaBlue_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_SeaBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_SeaBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_SeaBlue_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_SeaBlue_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_SeaSand_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_SeaSand_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_SeaSand_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_SeaSand_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_SeaSand_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_Turquoise_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_Turquoise_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_Turquoise_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_Turquoise_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_Turquoise_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_VWBeetle1963_YukonYellow_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_driver_YukonYellow_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_codriver_YukonYellow_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_hood_YukonYellow_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_VWBeetle1963_doors_trunk_YukonYellow_Rust" chance="0.20" />
+		</attachments>
+	</type>
+</spawnabletypes>

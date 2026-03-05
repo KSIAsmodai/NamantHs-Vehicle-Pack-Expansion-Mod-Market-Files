@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+<type name="NamantH_BoxTruck">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_PipsiBlue">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_PipsiBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_PipsiBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_PipsiBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_PipsiBlue" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_NotaRed">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_NotaRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_NotaRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_NotaRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_NotaRed" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_FrontaWhite">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_FrontaWhite" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_FrontaWhite" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_FrontaWhite" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_FrontaWhite" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_SpiteWhite">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_SpiteWhite" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_SpiteWhite" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_SpiteWhite" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_SpiteWhite" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_MadMonkGrey">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_MadMonkGrey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_MadMonkGrey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_MadMonkGrey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_MadMonkGrey" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_SakeWhite">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_SakeWhite" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_SakeWhite" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_SakeWhite" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_SakeWhite" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_Black">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_Black" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_Black" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_Black" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_Black" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_Yellow">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_Yellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_Yellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_Yellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_Yellow" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_Beige">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_Beige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_Beige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_Beige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_Beige" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_Blue">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_Blue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_Blue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_Blue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_Blue" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_Brown">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_Brown" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_Brown" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_Brown" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_Brown" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_DarkGreen">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_DarkGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_DarkGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_DarkGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_DarkGreen" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_DarkRed">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_DarkRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_DarkRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_DarkRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_DarkRed" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_UHaul">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_UHaul" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_UHaul" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_UHaul" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_UHaul" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_RustBase">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_PipsiBlue_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_PipsiBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_PipsiBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_PipsiBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_PipsiBlue_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_NotaRed_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_NotaRed_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_NotaRed_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_NotaRed_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_NotaRed_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_FrontaWhite_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_FrontaWhite_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_FrontaWhite_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_FrontaWhite_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_FrontaWhite_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_SpiteWhite_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_SpiteWhite_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_SpiteWhite_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_SpiteWhite_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_SpiteWhite_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_MadMonkGrey_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_MadMonkGrey_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_MadMonkGrey_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_MadMonkGrey_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_MadMonkGrey_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_SakeWhite_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_SakeWhite_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_SakeWhite_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_SakeWhite_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_SakeWhite_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_Black_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_Black_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_Black_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_Black_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_Black_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_Yellow_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_Yellow_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_Yellow_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_Yellow_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_Yellow_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_Beige_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_Beige_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_Beige_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_Beige_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_Beige_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_Blue_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_Blue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_Blue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_Blue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_Blue_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_Brown_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_Brown_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_Brown_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_Brown_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_Brown_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_DarkGreen_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_DarkGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_DarkGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_DarkGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_DarkGreen_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_DarkRed_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_DarkRed_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_DarkRed_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_DarkRed_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_DarkRed_Rust" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="NamantH_BoxTruck_UHaul_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_driver_UHaul_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_codriver_UHaul_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo1_UHaul_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BoxTruck_doors_cargo2_UHaul_Rust" chance="0.30" />
+		</attachments>
+	</type>
+</spawnabletypes>

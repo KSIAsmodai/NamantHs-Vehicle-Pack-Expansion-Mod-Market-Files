@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+<type name="NamantH_BuickRegal_black_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_black_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_black_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_black_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_black_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_blackred_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_blackred_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_blackred_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_blackred_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_blackred_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_blue_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_blue_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_blue_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_blue_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_blue_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_brown_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_brown_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_brown_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_brown_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_brown_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_green_dark_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_green_dark_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_green_dark_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_green_dark_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_green_dark_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_greengreen_dark_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_greengreen_dark_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_greengreen_dark_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_greengreen_dark_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_greengreen_dark_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_greengreen_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_greengreen_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_greengreen_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_greengreen_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_greengreen_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_green_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_green_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_green_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_green_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_green_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_red_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_red_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_red_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_red_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_red_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_white_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_white_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_white_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_white_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_white_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_whitered_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_whitered_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_whitered_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_whitered_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_whitered_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_MultiColored1_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_MultiColored1_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_MultiColored1_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_MultiColored1_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_MultiColored1_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_MultiColored2_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_MultiColored2_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_MultiColored2_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_MultiColored2_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_MultiColored2_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_MultiColored3_used">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_MultiColored3_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_MultiColored3_used" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_MultiColored3_used" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_MultiColored3_used" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_black_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_black_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_black_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_black_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_black_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_blackred_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_blackred_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_blackred_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_blackred_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_blackred_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_blue_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_blue_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_blue_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_blue_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_blue_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_brown_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_brown_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_brown_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_brown_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_brown_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_green_dark_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_green_dark_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_green_dark_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_green_dark_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_green_dark_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_greengreen_dark_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_greengreen_dark_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_greengreen_dark_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_greengreen_dark_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_greengreen_dark_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_green_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_green_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_green_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_green_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_green_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_greengreen_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_greengreen_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_greengreen_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_greengreen_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_greengreen_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_red_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_red_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_red_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_red_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_red_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_white_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_white_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_white_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_white_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_white_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_whitered_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_whitered_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_whitered_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_whitered_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_whitered_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_MultiColored1_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_MultiColored1_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_MultiColored1_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_MultiColored1_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_MultiColored1_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_MultiColored2_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_MultiColored2_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_MultiColored2_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_MultiColored2_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_MultiColored2_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_MultiColored3_new">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_MultiColored3_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_MultiColored3_new" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_MultiColored3_new" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_MultiColored3_new" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_black_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_black_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_black_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_black_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_black_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_blackred_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_blackred_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_blackred_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_blackred_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_blackred_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_blue_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_blue_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_blue_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_blue_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_blue_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_brown_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_brown_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_brown_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_brown_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_brown_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_green_dark_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_green_dark_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_green_dark_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_green_dark_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_green_dark_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_greengreen_dark_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_greengreen_dark_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_greengreen_dark_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_greengreen_dark_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_greengreen_dark_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_green_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_green_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_green_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_green_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_green_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_greengreen_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_greengreen_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_greengreen_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_greengreen_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_greengreen_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_red_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_red_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_red_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_red_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_red_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_white_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_white_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_white_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_white_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_white_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_whitered_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_whitered_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_whitered_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_whitered_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_whitered_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_MultiColored1_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_MultiColored1_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_MultiColored1_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_MultiColored1_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_MultiColored1_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_MultiColored2_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_MultiColored2_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_MultiColored2_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_MultiColored2_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_MultiColored2_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_BuickRegal_MultiColored3_abandoned">
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_driver_MultiColored3_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_codriver_MultiColored3_abandoned" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_hood_MultiColored3_abandoned" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_BuickRegal_doors_trunk_MultiColored3_abandoned" chance="0.20" />
+		</attachments>
+	</type>
+</spawnabletypes>

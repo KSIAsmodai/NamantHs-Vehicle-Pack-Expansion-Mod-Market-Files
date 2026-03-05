@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+<type name="NamantH_Mercedes300SEL_beige">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_beige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_beige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_beige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_beige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_beige" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_beige" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_brown">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_brown" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_brown" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_brown" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_brown" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_brown" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_brown" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_DarkGreen">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_DarkGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_DarkGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_DarkGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_DarkGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_DarkGreen" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_DarkGreen" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_DarkRed">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_DarkRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_DarkRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_DarkRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_DarkRed" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_DarkRed" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_DarkRed" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_grey">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_grey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_grey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_grey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_grey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_grey" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_grey" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_ivory">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_ivory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_ivory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_ivory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_ivory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_ivory" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_ivory" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_LightBlue">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_LightBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_LightBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_LightBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_LightBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_LightBlue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_LightBlue" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_red">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_red" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_red" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_red" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_red" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_red" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_red" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_seafoam">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_seafoam" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_seafoam" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_seafoam" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_seafoam" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_seafoam" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_seafoam" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_white">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_white" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_white" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_white" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_white" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_white" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_white" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_beige_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_beige_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_beige_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_beige_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_beige_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_beige_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_beige_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_brown_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_brown_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_brown_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_brown_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_brown_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_brown_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_brown_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_DarkGreen_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_DarkGreen_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_DarkGreen_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_DarkGreen_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_DarkGreen_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_DarkGreen_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_DarkGreen_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_DarkRed_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_DarkRed_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_DarkRed_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_DarkRed_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_DarkRed_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_DarkRed_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_DarkRed_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_grey_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_grey_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_grey_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_grey_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_grey_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_grey_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_grey_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_ivory_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_ivory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_ivory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_ivory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_ivory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_ivory_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_ivory_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_LightBlue_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_LightBlue_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_LightBlue_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_LightBlue_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_LightBlue_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_LightBlue_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_LightBlue_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_red_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_red_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_red_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_red_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_red_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_red_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_red_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_seafoam_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_seafoam_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_seafoam_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_seafoam_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_seafoam_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_seafoam_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_seafoam_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_Mercedes300SEL_white_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_driver_white_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_codriver_white_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo1_white_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_cargo2_white_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_hood_white_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_Mercedes300SEL_doors_trunk_white_rust" chance="0.20" />
+		</attachments>
+	</type>
+</spawnabletypes>

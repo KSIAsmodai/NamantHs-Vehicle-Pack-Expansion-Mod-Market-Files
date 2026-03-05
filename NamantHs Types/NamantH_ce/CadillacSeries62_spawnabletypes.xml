@@ -1,0 +1,1848 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+<type name="NamantH_CadillacSeries62_AvalonGrey">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_AvalonGrey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_AvalonGrey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_AvalonGrey" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_AvalonGrey" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_Black">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_Black" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_Black" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_Black" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_Black" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_Chartreuse">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_Chartreuse" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_Chartreuse" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_Chartreuse" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_Chartreuse" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_CypressGreen">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_CypressGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_CypressGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_CypressGreen" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_CypressGreen" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_DartmouthGreen">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_DartmouthGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_DartmouthGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_DartmouthGreen" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_DartmouthGreen" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_ElPasoBeige">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_ElPasoBeige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_ElPasoBeige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_ElPasoBeige" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_ElPasoBeige" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_FiestaIvory">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_FiestaIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_FiestaIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_FiestaIvory" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_FiestaIvory" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_FrenchGrey">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_FrenchGrey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_FrenchGrey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_FrenchGrey" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_FrenchGrey" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_HorizonBlue">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_HorizonBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_HorizonBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_HorizonBlue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_HorizonBlue" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_KingswoodGreen">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_KingswoodGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_KingswoodGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_KingswoodGreen" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_KingswoodGreen" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_LucerneGreen">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_LucerneGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_LucerneGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_LucerneGreen" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_LucerneGreen" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_MaderiaMaroon">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_MaderiaMaroon" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_MaderiaMaroon" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_MaderiaMaroon" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_MaderiaMaroon" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_Pink">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_Pink" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_Pink" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_Pink" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_Pink" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_TriumphBlue">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_TriumphBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_TriumphBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_TriumphBlue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_TriumphBlue" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_TyrolianGrey">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_TyrolianGrey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_TyrolianGrey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_TyrolianGrey" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_TyrolianGrey" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_AvalonGrey_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_AvalonGrey_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_AvalonGrey_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_AvalonGrey_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_AvalonGrey_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_Black_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_Black_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_Black_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_Black_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_Black_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_Chartreuse_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_Chartreuse_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_Chartreuse_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_Chartreuse_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_Chartreuse_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_CypressGreen_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_CypressGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_CypressGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_CypressGreen_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_CypressGreen_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_DartmouthGreen_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_DartmouthGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_DartmouthGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_DartmouthGreen_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_DartmouthGreen_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_ElPasoBeige_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_ElPasoBeige_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_ElPasoBeige_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_ElPasoBeige_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_ElPasoBeige_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_FiestaIvory_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_FiestaIvory_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_FiestaIvory_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_FiestaIvory_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_FiestaIvory_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_FrenchGrey_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_FrenchGrey_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_FrenchGrey_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_FrenchGrey_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_FrenchGrey_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_HorizonBlue_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_HorizonBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_HorizonBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_HorizonBlue_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_HorizonBlue_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_KingswoodGreen_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_KingswoodGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_KingswoodGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_KingswoodGreen_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_KingswoodGreen_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_LucerneGreen_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_LucerneGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_LucerneGreen_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_LucerneGreen_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_LucerneGreen_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_MaderiaMaroon_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_MaderiaMaroon_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_MaderiaMaroon_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_MaderiaMaroon_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_MaderiaMaroon_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_Pink_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_Pink_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_Pink_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_Pink_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_Pink_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_TriumphBlue_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_TriumphBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_TriumphBlue_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_TriumphBlue_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_TriumphBlue_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_TyrolianGrey_Rust">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_TyrolianGrey_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_TyrolianGrey_Rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_TyrolianGrey_Rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_TyrolianGrey_Rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_AvalonGrey_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_AvalonGrey_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_AvalonGrey_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_AvalonGrey_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_AvalonGrey_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_Black_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_Black_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_Black_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_Black_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_Black_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_Chartreuse_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_Chartreuse_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_Chartreuse_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_Chartreuse_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_Chartreuse_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_CypressGreen_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_CypressGreen_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_CypressGreen_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_CypressGreen_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_CypressGreen_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_DartmouthGreen_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_DartmouthGreen_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_DartmouthGreen_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_DartmouthGreen_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_DartmouthGreen_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_ElPasoBeige_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_ElPasoBeige_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_ElPasoBeige_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_ElPasoBeige_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_ElPasoBeige_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_FiestaIvory_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_FiestaIvory_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_FiestaIvory_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_FiestaIvory_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_FiestaIvory_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_FrenchGrey_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_FrenchGrey_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_FrenchGrey_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_FrenchGrey_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_FrenchGrey_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_HorizonBlue_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_HorizonBlue_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_HorizonBlue_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_HorizonBlue_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_HorizonBlue_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_KingswoodGreen_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_KingswoodGreen_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_KingswoodGreen_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_KingswoodGreen_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_KingswoodGreen_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_LucerneGreen_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_LucerneGreen_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_LucerneGreen_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_LucerneGreen_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_LucerneGreen_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_MaderiaMaroon_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_MaderiaMaroon_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_MaderiaMaroon_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_MaderiaMaroon_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_MaderiaMaroon_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_Pink_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_Pink_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_Pink_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_Pink_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_Pink_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_TriumphBlue_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_TriumphBlue_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_TriumphBlue_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_TriumphBlue_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_TriumphBlue_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_CadillacSeries62_TyrolianGrey_ColorShift">
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_driver_TyrolianGrey_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_codriver_TyrolianGrey_ColorShift" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_hood_TyrolianGrey_ColorShift" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_CadillacSeries62_doors_trunk_TyrolianGrey_ColorShift" chance="0.20" />
+		</attachments>
+	</type>
+</spawnabletypes>
