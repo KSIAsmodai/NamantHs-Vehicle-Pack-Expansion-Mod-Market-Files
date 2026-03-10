@@ -53,8 +53,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
         <file name="ElCamino1978_Types.xml" type="types" />
         <file name="Mercedes_300SEL_spawnabletypes.xml" type="spawnabletypes" />
         <file name="Mercedes_560SEL_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="RegalGNX_types.xml" type="types" />
+        <file name="RegalGNX_spawnabletypes.xml" type="spawnabletypes" />
     </ce>
 
 
 	
+
 </economycore>
