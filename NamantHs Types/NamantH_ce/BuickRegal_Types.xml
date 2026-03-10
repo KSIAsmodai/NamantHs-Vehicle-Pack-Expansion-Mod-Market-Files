@@ -450,7 +450,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="NamantH_BuickRegal_doors_driver">
+	<type name="NamantH_BuickRegal_doors_driver_used">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
@@ -460,7 +460,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="NamantH_BuickRegal_doors_codriver">
+	<type name="NamantH_BuickRegal_doors_codriver_used">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
@@ -470,7 +470,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="NamantH_BuickRegal_doors_hood">
+	<type name="NamantH_BuickRegal_doors_hood_used">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
@@ -480,7 +480,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="NamantH_BuickRegal_doors_trunk">
+	<type name="NamantH_BuickRegal_doors_trunk_used">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
