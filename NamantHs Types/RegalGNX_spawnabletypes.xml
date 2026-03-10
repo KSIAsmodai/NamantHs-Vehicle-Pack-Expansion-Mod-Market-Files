@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+<types>
+    <!-- === NamantH Regal GNX Spawnable Types === -->
+    <!-- Copy these into your cfgeconomycore.xml or spawnabletypes_vehicles.xml -->
+
+    <!-- Standard Regal GNX -->
+    <type name="NamantH_RegalGNX">
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_Wheel" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_Wheel" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_Wheel" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_Wheel" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_doors_driver" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_doors_codriver" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_doors_hood" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_doors_trunk" chance="0.20" />
+        </attachments>
+    </type>
+
+    <!-- Regal GNX Automatic Variant -->
+    <type name="NamantH_RegalGNX_auto">
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_Wheel" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_Wheel" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_Wheel" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_Wheel" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_doors_driver" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_doors_codriver" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_doors_hood" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_doors_trunk" chance="0.20" />
+        </attachments>
+    </type>
+
+</types>
+</spawnabletypes>
