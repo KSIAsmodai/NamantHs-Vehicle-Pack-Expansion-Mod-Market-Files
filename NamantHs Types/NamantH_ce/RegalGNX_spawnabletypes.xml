@@ -19,6 +19,9 @@
             <item name="NamantH_RegalGNX_Wheel" chance="0.80" />
         </attachments>
         <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_Wheel" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
             <item name="CarRadiator" chance="0.60" />
         </attachments>
         <attachments chance="1.00">
@@ -62,6 +65,9 @@
             <item name="NamantH_RegalGNX_Wheel" chance="0.80" />
         </attachments>
         <attachments chance="1.00">
+            <item name="NamantH_RegalGNX_Wheel" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
             <item name="CarRadiator" chance="0.60" />
         </attachments>
         <attachments chance="1.00">
@@ -92,3 +98,4 @@
 
 </types>
 </spawnabletypes>
+
