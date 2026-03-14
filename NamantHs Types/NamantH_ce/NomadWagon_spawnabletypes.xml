@@ -1,0 +1,1916 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!-- Base -->
+	<type name="NamantH_NomadWagon_Base">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- Rust Base -->
+	<type name="NamantH_NomadWagon_RustBase">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- BlackYellow -->
+	<type name="NamantH_NomadWagon_BlackYellow">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_BlackYellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_BlackYellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_BlackYellow" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_BlackYellow" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- BlackIvory -->
+	<type name="NamantH_NomadWagon_BlackIvory">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_BlackIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_BlackIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_BlackIvory" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_BlackIvory" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- HarborBlueNasBlue -->
+	<type name="NamantH_NomadWagon_HarborBlueNasBlue">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_HarborBlueNasBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_HarborBlueNasBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_HarborBlueNasBlue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_HarborBlueNasBlue" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- PineGreenSherGreen -->
+	<type name="NamantH_NomadWagon_PineGreenSherGreen">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_PineGreenSherGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_PineGreenSherGreen" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_PineGreenSherGreen" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_PineGreenSherGreen" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- PineGreenIvory -->
+	<type name="NamantH_NomadWagon_PineGreenIvory">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_PineGreenIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_PineGreenIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_PineGreenIvory" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_PineGreenIvory" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- SherGreenIvory -->
+	<type name="NamantH_NomadWagon_SherGreenIvory">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_SherGreenIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_SherGreenIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_SherGreenIvory" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_SherGreenIvory" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- NasBlueIvory -->
+	<type name="NamantH_NomadWagon_NasBlueIvory">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_NasBlueIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_NasBlueIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_NasBlueIvory" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_NasBlueIvory" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- PlumIvory -->
+	<type name="NamantH_NomadWagon_PlumIvory">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_PlumIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_PlumIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_PlumIvory" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_PlumIvory" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- TurquoiseIvory -->
+	<type name="NamantH_NomadWagon_TurquoiseIvory">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_TurquoiseIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_TurquoiseIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_TurquoiseIvory" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_TurquoiseIvory" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- RedIvory -->
+	<type name="NamantH_NomadWagon_RedIvory">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_RedIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_RedIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_RedIvory" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_RedIvory" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- RedBeige -->
+	<type name="NamantH_NomadWagon_RedBeige">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_RedBeige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_RedBeige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_RedBeige" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_RedBeige" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- LaurelGreenYellow -->
+	<type name="NamantH_NomadWagon_LaurelGreenYellow">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_LaurelGreenYellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_LaurelGreenYellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_LaurelGreenYellow" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_LaurelGreenYellow" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- GrayIvory -->
+	<type name="NamantH_NomadWagon_GrayIvory">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_GrayIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_GrayIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_GrayIvory" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_GrayIvory" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- BlackCream -->
+	<type name="NamantH_NomadWagon_BlackCream">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_BlackCream" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_BlackCream" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_BlackCream" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_BlackCream" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- GrecGoldCream -->
+	<type name="NamantH_NomadWagon_GrecGoldCream">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_GrecGoldCream" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_GrecGoldCream" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_GrecGoldCream" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_GrecGoldCream" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- SilverIvory -->
+	<type name="NamantH_NomadWagon_SilverIvory">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_SilverIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_SilverIvory" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_SilverIvory" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_SilverIvory" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- OrangeBlack -->
+	<type name="NamantH_NomadWagon_OrangeBlack">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_OrangeBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_OrangeBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_OrangeBlack" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_OrangeBlack" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- TurquoiseBlack -->
+	<type name="NamantH_NomadWagon_TurquoiseBlack">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_TurquoiseBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_TurquoiseBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_TurquoiseBlack" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_TurquoiseBlack" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- RedBlack -->
+	<type name="NamantH_NomadWagon_RedBlack">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_RedBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_RedBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_RedBlack" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_RedBlack" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- IvoryBlack -->
+	<type name="NamantH_NomadWagon_IvoryBlack">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_IvoryBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_IvoryBlack" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_IvoryBlack" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_IvoryBlack" chance="0.20" />
+		</attachments>
+	</type>
+	<!-- Rusted variants (all with fifth wheel added) -->
+	<type name="NamantH_NomadWagon_BlackYellow_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_BlackYellow_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_BlackYellow_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_BlackYellow_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_BlackYellow_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_BlackIvory_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_BlackIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_BlackIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_BlackIvory_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_BlackIvory_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_HarborBlueNasBlue_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_HarborBlueNasBlue_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_HarborBlueNasBlue_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_HarborBlueNasBlue_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_HarborBlueNasBlue_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_PineGreenSherGreen_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_PineGreenSherGreen_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_PineGreenSherGreen_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_PineGreenSherGreen_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_PineGreenSherGreen_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_PineGreenIvory_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_PineGreenIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_PineGreenIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_PineGreenIvory_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_PineGreenIvory_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_SherGreenIvory_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_SherGreenIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_SherGreenIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_SherGreenIvory_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_SherGreenIvory_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_NasBlueIvory_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_NasBlueIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_NasBlueIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_NasBlueIvory_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_NasBlueIvory_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_PlumIvory_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_PlumIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_PlumIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_PlumIvory_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_PlumIvory_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_TurquoiseIvory_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_TurquoiseIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_TurquoiseIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_TurquoiseIvory_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_TurquoiseIvory_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_RedIvory_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_RedIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_RedIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_RedIvory_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_RedIvory_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_RedBeige_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_RedBeige_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_RedBeige_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_RedBeige_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_RedBeige_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_LaurelGreenYellow_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_LaurelGreenYellow_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_LaurelGreenYellow_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_LaurelGreenYellow_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_LaurelGreenYellow_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_GrayIvory_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_GrayIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_GrayIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_GrayIvory_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_GrayIvory_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_BlackCream_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_BlackCream_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_BlackCream_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_BlackCream_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_BlackCream_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_GrecGoldCream_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_GrecGoldCream_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_GrecGoldCream_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_GrecGoldCream_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_GrecGoldCream_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_SilverIvory_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_SilverIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_SilverIvory_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_SilverIvory_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_SilverIvory_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_OrangeBlack_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_OrangeBlack_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_OrangeBlack_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_OrangeBlack_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_OrangeBlack_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_TurquoiseBlack_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_TurquoiseBlack_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_TurquoiseBlack_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_TurquoiseBlack_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_TurquoiseBlack_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_RedBlack_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_RedBlack_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_RedBlack_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_RedBlack_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_RedBlack_rust" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="NamantH_NomadWagon_IvoryBlack_rust">
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_Wheel" chance="0.80" />
+			<!-- Fifth wheel (spare) -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_driver_IvoryBlack_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_codriver_IvoryBlack_rust" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_hood_IvoryBlack_rust" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NamantH_NomadWagon_doors_trunk_IvoryBlack_rust" chance="0.20" />
+		</attachments>
+	</type>
+</types>
