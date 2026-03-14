@@ -44,7 +44,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
         <file name="ElCamino1978_spawnabletypes.xml" type="spawnabletypes" />
         <file name="Mercedes_300SEL_types.xml" type="types" />
         <file name="Mercedes_560SEL_types.xml" type="types" />
-        <file name="Plates_Types.xml" type="types" />
         <file name="VWBeetle1963_Types.xml" type="types" />
         <file name="BoxTruck_Parts_Types.xml" type="types" />
         <file name="BoxTruck_types.xml" type="types" />
@@ -55,9 +54,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
         <file name="Mercedes_560SEL_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="RegalGNX_types.xml" type="types" />
         <file name="RegalGNX_spawnabletypes.xml" type="spawnabletypes" />
-    </ce>
-
-
-	
+		<file name="NomadWagon_Vehicle_Types.xml" type="types" />
+		<file name="NomadWagon_Parts_Types.xml" type="types" />
+        <file name="NomadWagon_spawnabletypes.xml" type="spawnabletypes" />
+    </ce>	
 
 </economycore>
