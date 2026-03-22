@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<types>
+<spawnabletypes>
 	<!-- Base -->
 	<type name="NamantH_NomadWagon_Base">
 		<attachments chance="1.00">
@@ -1913,4 +1913,4 @@
 			<item name="NamantH_NomadWagon_doors_trunk_IvoryBlack_rust" chance="0.20" />
 		</attachments>
 	</type>
-</types>
+</spawnabletypes>
