@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <spawnabletypes>
-<types>
     <!-- === NamantH Regal GNX Spawnable Types === -->
     <!-- Copy these into your cfgeconomycore.xml or spawnabletypes_vehicles.xml -->
 
@@ -96,6 +95,5 @@
         </attachments>
     </type>
 
-</types>
 </spawnabletypes>
 
