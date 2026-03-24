@@ -1,0 +1,1740 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+    <!-- ====================== CLEAN VARIANTS ====================== -->
+    <type name="NamantH_Escalade2003_beige">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_beige" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_beige" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_beige" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_beige" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_beige" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_beige" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_black">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Black" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Black" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Black" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Black" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Black" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_black" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_black" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_black" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_black" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_black" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_black" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_blue">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_blue" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_blue" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_blue" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_blue" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_blue" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_blue" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_brown">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_brown" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_brown" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_brown" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_brown" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_brown" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_brown" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_DarkGreen">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_DarkGreen" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_DarkGreen" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_DarkGreen" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_DarkGreen" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_DarkGreen" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_DarkGreen" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_DarkRed">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_DarkRed" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_DarkRed" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_DarkRed" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_DarkRed" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_DarkRed" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_DarkRed" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_Green">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_Green" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_Green" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_Green" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_Green" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_Green" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_Green" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_grey">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_grey" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_grey" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_grey" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_grey" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_grey" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_grey" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_ivory">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_ivory" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_ivory" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_ivory" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_ivory" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_ivory" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_ivory" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_LightBlue">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_LightBlue" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_LightBlue" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_LightBlue" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_LightBlue" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_LightBlue" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_LightBlue" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_Pewter">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_Pewter" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_Pewter" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_Pewter" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_Pewter" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_Pewter" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_Pewter" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_red">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_red" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_red" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_red" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_red" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_red" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_red" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_seafoam">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_seafoam" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_seafoam" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_seafoam" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_seafoam" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_seafoam" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_seafoam" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_white">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_white" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_white" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_white" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_white" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_white" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_white" chance="0.20" />
+        </attachments>
+    </type>
+
+    <!-- ====================== GOLD & CHROME VARIANTS ====================== -->
+    <type name="NamantH_Escalade2003_Gold">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Gold" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Gold" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Gold" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Gold" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Gold" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_Gold" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_Gold" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_Gold" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_Gold" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_Gold" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_Gold" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_chrome">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_chrome" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_chrome" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_chrome" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_chrome" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_chrome" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_chrome" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_chromeBlack">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeBlack" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeBlack" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeBlack" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeBlack" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeBlack" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_chromeBlack" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_chromeBlack" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_chromeBlack" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_chromeBlack" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_chromeBlack" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_chromeBlack" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_chromeBlue">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeBlue" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeBlue" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeBlue" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeBlue" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeBlue" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_chromeBlue" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_chromeBlue" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_chromeBlue" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_chromeBlue" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_chromeBlue" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_chromeBlue" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_chromeRed">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeRed" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeRed" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeRed" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeRed" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_chromeRed" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_chromeRed" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_chromeRed" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_chromeRed" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_chromeRed" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_chromeRed" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_chromeRed" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_Plate">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk" chance="0.20" />
+        </attachments>
+    </type>
+
+    <!-- ====================== RUST VARIANTS ====================== -->
+    <type name="NamantH_Escalade2003_Beige_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_Beige_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_Beige_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_Beige_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_Beige_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_Beige_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_Beige_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_Black_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Black" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Black" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Black" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Black" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel_Black" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_Black_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_Black_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_Black_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_Black_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_Black_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_Black_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_Blue_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_Blue_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_Blue_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_Blue_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_Blue_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_Blue_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_Blue_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_Brown_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_Brown_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_Brown_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_Brown_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_Brown_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_Brown_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_Brown_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_DarkGreen_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_DarkGreen_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_DarkGreen_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_DarkGreen_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_DarkGreen_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_DarkGreen_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_DarkGreen_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_DarkRed_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_DarkRed_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_DarkRed_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_DarkRed_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_DarkRed_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_DarkRed_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_DarkRed_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_Green_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_Green_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_Green_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_Green_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_Green_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_Green_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_Green_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_Grey_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_Grey_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_Grey_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_Grey_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_Grey_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_Grey_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_Grey_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_Ivory_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_Ivory_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_Ivory_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_Ivory_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_Ivory_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_Ivory_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_Ivory_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_LightBlue_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_LightBlue_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_LightBlue_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_LightBlue_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_LightBlue_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_LightBlue_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_LightBlue_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_Pewter_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_Pewter_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_Pewter_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_Pewter_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_Pewter_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_Pewter_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_Pewter_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_Red_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_Red_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_Red_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_Red_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_Red_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_Red_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_Red_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_Seafoam_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_Seafoam_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_Seafoam_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_Seafoam_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_Seafoam_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_Seafoam_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_Seafoam_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+    <type name="NamantH_Escalade2003_White_Rust">
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_Wheel" chance="1.0" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_driver_White_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_codriver_White_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo1_White_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_cargo2_White_Rust" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_hood_White_Rust" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="NamantH_Escalade2003_doors_trunk_White_Rust" chance="0.20" />
+        </attachments>
+    </type>
+
+</spawnabletypes>
